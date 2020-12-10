@@ -6,4 +6,4 @@
 
 ### Welcome to my Github ! &nbsp;
 
-I'm a computer science student at [![Email](https://img.shields.io/badge/Email-Mim-informational?style=plastic&logo=42&logoColor=red)](https://www.42.us.org/])&nbsp;  🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a computer science student at [![Email](https://img.shields.io/badge/School-Sao Paulo-informational?style=plastic&logo=42&logoColor=red)](https://www.42.us.org/])&nbsp;  🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
