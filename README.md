@@ -1,3 +1,4 @@
 ## Hi there 👋, I'm [Roman Bitetti!](https://github.com/romanbtt/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me-informational?style=social&logo=linkedin&logoColor=blue&?color=blue)](https://www.linkedin.com/in/roman-bitetti-566485195/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/roman-bitetti-566485195/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Moi-informational?style=social&logo=whatsapp&logoColor=blue)](https://wa.me/+33755648103/)
