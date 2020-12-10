@@ -4,4 +4,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Moi-informational?style=social&logo=whatsapp&logoColor=green)](https://wa.me/+33755648103/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Mim-informational?style=social&logo=gmail&logoColor=red)](mailto:romanbtt@tutanota.com?subject=[GitHub])&nbsp;
 
-### Welcome to my Github ! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=romanbtt.romanbtt&style=flat-square&color=0088cc)
+### Welcome to my Github ! &nbsp;
+
+I'm a computer science student at [![WhatsApp](https://img.shields.io/badge/42-School-blue?logo=42)](https://42.us.org/)&nbsp;  🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
