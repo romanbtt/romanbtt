@@ -28,7 +28,7 @@ Fast answer : &nbsp;<img src="https://img.icons8.com/cotton/32/000000/coffee-to-
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/‎-Vim-informational?style=plastic&logo=vim&logoColor=green)
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/‎-VSCode-informational?style=plastic&logo=visual-studio-code&logoColor=blue)
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/Linux-Mint-informational?style=plastic&logo=linux-mint&logoColor=green)
-&nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/-Nope-informational?style=plastic&logo=windows-95&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/‎-Nope-informational?style=plastic&logo=windows-95&logoColor=white)
 #### How did I understand recursion ?
 &nbsp;&nbsp;&nbsp;&nbsp;[![School](https://img.shields.io/badge/‎-Link-informational?style=plastic&logo=google&logoColor=red)](https://www.google.com/search?sxsrf=ALeKk01JAlV0C__O3nAaQmB_ooZRlvJdLQ:1607658418324&q=recursion&spell=1&sa=X&ved=2ahUKEwiaycangsXtAhWPiOAKHfBACgkQBSgAegQIHxAv&biw=1920&bih=954])
 
