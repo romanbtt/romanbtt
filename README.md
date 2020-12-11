@@ -1,5 +1,6 @@
-<img src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" height="100"/>
 ## Hi there 🙋‍♂️, I'm Roman Bitetti!
+<img src="https://media.giphy.com/media/EEy7Qip0YZ27PPtC7y/giphy.gif" align="right" height="100"/>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Me-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/roman-bitetti-566485195/)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Moi-informational?style=social&logo=whatsapp&logoColor=green)](https://wa.me/+33755648103/)&nbsp;
