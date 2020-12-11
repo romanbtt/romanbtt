@@ -33,5 +33,5 @@ Fast answer : &nbsp;<img src="https://img.icons8.com/cotton/32/000000/coffee-to-
 &nbsp;&nbsp;&nbsp;&nbsp;[![School](https://img.shields.io/badge/‎-Link-informational?style=plastic&logo=google&logoColor=red)](https://www.google.com/search?sxsrf=ALeKk01JAlV0C__O3nAaQmB_ooZRlvJdLQ:1607658418324&q=recursion&spell=1&sa=X&ved=2ahUKEwiaycangsXtAhWPiOAKHfBACgkQBSgAegQIHxAv&biw=1920&bih=954])
 
 
-## Big Data in minor ! 101010 <img src="https://img.icons8.com/color/48/000000/wink--v3.png"/>
+## Big Data in minor ! 101010 <img src="https://img.icons8.com/color/32/000000/wink--v3.png"/>
 
