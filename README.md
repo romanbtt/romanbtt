@@ -14,7 +14,7 @@ I'm a computer science student who is finding it's path on the journey of being 
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/Debugged%20in-🇧🇷-informational?style=plastic&logoColor=red&color=white)
 
 ## Let's get serious. How I work ? 
-Fast answer : ☕
+Fast answer : &nbsp;&nbsp;<img src="<img src="https://img.icons8.com/cotton/32/000000/coffee-to-go.png"/>"/>
 #### Where I study
 &nbsp;&nbsp;&nbsp;&nbsp;[![School](https://img.shields.io/badge/School-SP-informational?style=plastic&logo=42&logoColor=red)](https://www.42.us.org/])
 #### What I study 
