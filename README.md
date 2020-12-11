@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/YP2kIjORrvbrXccl2f/giphy.gif" height="300"/>
+<img src="https://media.giphy.com/media/YP2kIjORrvbrXccl2f/giphy.gif" align="right" height="300"/>
 ## Hi there 🙋‍♂️, I'm Roman Bitetti!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Me-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/roman-bitetti-566485195/)&nbsp;
