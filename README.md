@@ -19,4 +19,5 @@ Developped in 🇫🇷  -  Compiled in 🇨🇦  -  Debugged in 🇧🇷
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/man-man-informational?style=plastic&logo=linux&logoColor=red)
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/‎-Udemy-informational?style=plastic&logo=udemy&logoColor=red)
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/‎-Youtube-informational?style=plastic&logo=youtube&logoColor=red)
+&nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/‎-Community-informational?style=plastic&logo=42&logoColor=red)
 
