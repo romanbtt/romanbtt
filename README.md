@@ -15,4 +15,5 @@ Debugged in --- 🇧🇷
 
 
 [![School](https://img.shields.io/badge/School-SP-informational?style=plastic&logo=42&logoColor=red)](https://www.42.us.org/])
-<iframe src="https://giphy.com/embed/j6ZhcAyUctYrj2ueBi" width="480" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/2000s-00s-middle-school-j6ZhcAyUctYrj2ueBi">via GIPHY</a></p>
+
+<img src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif"/>
