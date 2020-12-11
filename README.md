@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-Mim-informational?style=social&logo=gmail&logoColor=red)](mailto:romanbtt@tutanota.com?subject=[GitHub])&nbsp;
 
 ### Welcome to my Github human! &nbsp;
-
+<img src="https://media.giphy.com/media/XzYY9fZM6sNFe/giphy.gif" align="right" height="200" />
 ![Alt Text](https://media.giphy.com/media/XzYY9fZM6sNFe/giphy.gif)
 
 
