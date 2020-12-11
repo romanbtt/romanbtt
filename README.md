@@ -17,4 +17,5 @@ Developped in 🇫🇷  -  Compiled in 🇨🇦  -  Debugged in 🇧🇷
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/docker.png"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> <img src="https://img.icons8.com/plasticine/48/000000/bash.png"/>
 ### How I study
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/man-man-informational?style=plastic&logo=linux&logoColor=red)
+&nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/‎-Udemy-informational?style=plastic&logo=udemy&logoColor=red)
 
