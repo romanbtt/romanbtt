@@ -24,6 +24,5 @@ I'm a computer science student who is finding it's path on the journey of being 
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/‎-Youtube-informational?style=plastic&logo=youtube&logoColor=red)
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/‎-Community-informational?style=plastic&logo=42&logoColor=red)
 #### How I understand recursion
-&nbsp;&nbsp;&nbsp;&nbsp;[![School](https://img.shields.io/badge/‎-Link-informational?style=plastic&logo=google&logoColor=red)](https://www.google.com/search?hl=en&sxsrf=ALeKk01nVQ6Ha7u7AaUuE0FEI6CGEZ2Pyw:1607658193964&q=recursion&spell=1&sa=X&ved=2ahUKEwim4ci8gcXtAhXMmeAKHQcSAF8QBSgAegQIHhAv&biw=1920&bih=954
-])
+&nbsp;&nbsp;&nbsp;&nbsp;[![School](https://img.shields.io/badge/School-SP-informational?style=plastic&logo=42&logoColor=red)](https://www.google.com/search?sxsrf=ALeKk01JAlV0C__O3nAaQmB_ooZRlvJdLQ:1607658418324&q=recursion&spell=1&sa=X&ved=2ahUKEwiaycangsXtAhWPiOAKHfBACgkQBSgAegQIHxAv&biw=1920&bih=954])
 
