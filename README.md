@@ -12,5 +12,5 @@ I'm a computer science student who is finding it's path on the journey of being 
 Developped in 🇫🇷  -  Compiled in 🇨🇦  -  Debugged in 🇧🇷  
 
 ### Where I study
-  [![School](https://img.shields.io/badge/School-SP-informational?style=plastic&logo=42&logoColor=red)](https://www.42.us.org/])
+&nbsp;[![School](https://img.shields.io/badge/School-SP-informational?style=plastic&logo=42&logoColor=red)](https://www.42.us.org/])
 #### What I study 
