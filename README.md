@@ -9,7 +9,7 @@
 
 I'm a computer science student who is finding it's path on the journey of being a software dev 🤑 💰. I'm a leaner enthousiam who believe that every period of the life is good to learn something new 🤸‍♂️. I spare my life between France, Canada and Brasil 🛂. I'm able to speak several languages to communicate with humans and computers 🤖. I did my first year of computer science univerty in Paris 🥐 and i'm continuing my studies at 42 school in Sao Paulo 🏖️. 42 allows me to learn in the way that I am the most effective 🤯.
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/Developped%20in-<img src="https://img.icons8.com/color/48/000000/france-circular.png"/>-informational?style=for-the-badge&Color=red&color=white)
+&nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/Developped%20in-🇫🇷-informational?style=for-the-badge&Color=red&color=white)
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/Compiled%20in-🇨🇦-informational?style=for-the-badge&Color=red&color=white)
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/Debugged%20in-🇧🇷-informational?style=for-the-badge&Color=red&color=white)
 
