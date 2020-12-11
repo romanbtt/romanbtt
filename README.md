@@ -17,6 +17,6 @@ Developped in 🇫🇷  -  Compiled in 🇨🇦  -  Debugged in 🇧🇷
 &nbsp;&nbsp;&nbsp;&nbsp;![School](https://img.shields.io/badge/‎-Programming-informational?style=plastic&logo=c&logoColor=red)
 &nbsp;&nbsp;&nbsp;&nbsp;![School](https://img.shields.io/badge/‎-Docker-informational?style=plastic&logo=docker&logoColor=red)
 &nbsp;&nbsp;&nbsp;&nbsp;![School](https://img.shields.io/badge/‎-Programming-informational?style=plastic&logo=cplusplus&logoColor=red)
-<img src="https://simpleicons.org/icons/v8.svg" align="right" height="200"   color=#27ae60 />
+<img src="https://simpleicons.org/icons/v8.svg" align="right" height="200"   color="blue" />
 
 
