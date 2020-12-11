@@ -13,7 +13,8 @@ I'm a computer science student who is finding it's path on the journey of being 
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/Compiled%20in-🇨🇦-informational?style=plastic&logoColor=red&color=white)
 &nbsp;&nbsp;&nbsp;&nbsp;![Man](https://img.shields.io/badge/Debugged%20in-🇧🇷-informational?style=plastic&logoColor=red&color=white)
 
-## Let's get serious. How I work ? ☕
+## Let's get serious. How I work ? 
+Fast answer : ☕
 #### Where I study
 &nbsp;&nbsp;&nbsp;&nbsp;[![School](https://img.shields.io/badge/School-SP-informational?style=plastic&logo=42&logoColor=red)](https://www.42.us.org/])
 #### What I study 
