@@ -35,9 +35,6 @@ Fast answer : &nbsp;<img src="https://img.icons8.com/cotton/32/000000/coffee-to-
 
 ## Big Data in minor ! 101010 <img src="https://img.icons8.com/color/32/000000/wink--v3.png"/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=tokyonight)
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=romanbtt&show_icons=true&theme=tokyonight" />
 </a>
