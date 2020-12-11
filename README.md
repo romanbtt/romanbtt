@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" align="right" height="200"/>
 ## Hi there 🙋‍♂️, I'm [Roman Bitetti!](https://github.com/romanbtt/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Me-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/roman-bitetti-566485195/)&nbsp;
@@ -15,5 +16,3 @@ Debugged in --- 🇧🇷
 
 
 [![School](https://img.shields.io/badge/School-SP-informational?style=plastic&logo=42&logoColor=red)](https://www.42.us.org/])
-
-<img src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif"/>
