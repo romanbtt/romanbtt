@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/EEy7Qip0YZ27PPtC7y/giphy.gif" height="200"/>
+<img src="https://gph.is/st/M2wGVbY" height="200"/>
 
 ## Hi there 🙋‍♂️, I'm Roman Bitetti!
 
