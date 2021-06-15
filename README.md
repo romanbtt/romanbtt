@@ -1,8 +1,7 @@
 # Hi there <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>, I'm Roman Bitetti!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Me-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/roman-b-566485195/)&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Moi-informational?style=social&logo=whatsapp&logoColor=green)](https://wa.me/+33755648103/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Mim-informational?style=social&logo=gmail&logoColor=red)](mailto:romanbtt@tutanota.com?subject=[GitHub])&nbsp;
+[![Email](https://img.shields.io/badge/Email-Moi-informational?style=social&logo=gmail&logoColor=red)](mailto:romanbtt@tutanota.com?subject=[GitHub])&nbsp;
 
 ### Welcome to my Github human! &nbsp;
 <img src="https://media.giphy.com/media/XzYY9fZM6sNFe/giphy.gif" align="right" height="200" />
