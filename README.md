@@ -1,6 +1,6 @@
 # Hi there <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>, I'm Roman Bitetti!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/roman-b-566485195/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/roman-bitetti/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Moi-informational?style=social&logo=gmail&logoColor=red)](mailto:romanbtt@tutanota.com?subject=[GitHub])&nbsp;
 
 ### Welcome to my Github human! &nbsp;
