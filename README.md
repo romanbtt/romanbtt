@@ -38,5 +38,5 @@ Fast answer : &nbsp;<img src="https://img.icons8.com/cotton/32/000000/coffee-to-
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=romanbtt&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanbtt&hide=Roff,Php,Assembly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanbtt&hide=Roff,Php)](https://github.com/anuraghazra/github-readme-stats)
 
